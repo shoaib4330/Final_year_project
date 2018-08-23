@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="442b2ef6-0f5e-4125-87fd-227c65c0b3a4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/._checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/._model.ckpt-49491.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/._model.ckpt-49491.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/._model.ckpt-49491.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/model.ckpt-49491.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/model.ckpt-49491.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/east_resources/east_icdar2015_resnet_v1_50_rbox/model.ckpt-49491.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_videos/a1.3gp" beforeDir="false" />
-    </list>
+    <list default="true" id="442b2ef6-0f5e-4125-87fd-227c65c0b3a4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +12,7 @@
     <session id="-980640482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="2" />
@@ -91,19 +80,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Constants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/east_detection/lanms/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="425">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
@@ -187,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1373" />
@@ -208,11 +197,6 @@
             <path>
               <item name="project_final_year" type="b2602c69:ProjectViewProjectNode" />
               <item name="fyp_nn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project_final_year" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fyp_nn" type="462c0819:PsiDirectoryNode" />
-              <item name="module_car_extraction" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,7 +344,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24404761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24404761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -370,7 +354,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6557377" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26065573" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -386,19 +370,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/east_detection/lanms/__init__.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/east_detection/eval.py</url>
           <line>99</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/east_detection/lanms/__init__.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey.py</url>
@@ -512,13 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/east_detection/eval.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -543,11 +510,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/east_detection/lanms/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="425">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
